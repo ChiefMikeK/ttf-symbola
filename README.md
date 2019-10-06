@@ -1,6 +1,7 @@
-# ttf-symbola
-Font for unicode symbols (part of Unicode Fonts for Ancient Scripts)
+## ttf-symbola   
+Font for unicode symbols part of   
+* [Unicode Fonts for Ancient Scripts](http://users.teilar.gr/~g1951d/)  
+* Direct download includes character charts :neckbeard: http://users.teilar.gr/~g1951d/Symbola.zip  
+* Arch linux [AUR (en) - ttf-symbola](https://aur.archlinux.org/packages/ttf-symbola/) 
 
-note: this is a backup, the original author took the download down from his website (http://users.teilar.gr/~g1951d/)
-
-fonts designed by George Douros
+Note: This is a backup
